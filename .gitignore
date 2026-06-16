@@ -3,4 +3,3 @@ build/
 *.user
 *.suo
 lib/JUCE/
-Resources/bg.png
